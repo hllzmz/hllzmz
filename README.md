@@ -1,9 +1,9 @@
 <div align="center">
   <p>
-    <h4>👋 Hey, I'm Halil.</h4>
-    <h5>🧠 I have a great passion for Data Science & GenAI.</h5>
-    <h5>⚙️ I train Machine Learning and Deep Learning models.</h5>
-    <h5>📚 I am currently learning scalable model training and deployment operations (MLOps).</h5>
+    <h3>👋 Hey, I'm Halil.</h3>
+    <h4>🧠 I have a great passion for Data Science & GenAI.</h4>
+    <h4>⚙️ I train Machine Learning and Deep Learning models.</h4>
+    <h4>📚 I am currently learning scalable model training and deployment operations (MLOps).</h4>
   </p>
 </div>
  
