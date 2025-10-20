@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/TFX-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
 </p>
 
