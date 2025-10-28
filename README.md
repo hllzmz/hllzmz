@@ -1,9 +1,8 @@
 <div align="center">
   <p>
     <h3>👋 Hey, I'm Halil.</h3>
-    <h4>🧠 I have a great passion for Data Science & GenAI.</h4>
+    <h4>🧠 I have a great passion for Data Science, GenAI, and Behavioral Sciences.</h4>
     <h4>⚙️ I train Machine Learning and Deep Learning models.</h4>
-    <h4>📚 I am currently learning scalable model training and deployment operations (MLOps).</h4>
   </p>
 </div>
  
